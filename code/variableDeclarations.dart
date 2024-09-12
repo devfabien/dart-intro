@@ -18,4 +18,8 @@ void main() {
   print(isStudent);
 
   print(description);
+
+  const Object i = 3; // Where i is a const Object with an int value...
+  const list = [i as int]; // Use a typecast.
+
 }
