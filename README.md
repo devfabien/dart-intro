@@ -51,5 +51,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 
 <div align="center">
-  <sub>Built with 💙 by <a href="https://github.com/devfabien">devfabien</a></sub>
+  <sub>Built with 💙 by <a href="https://github.com/devfabien">Fabien Ishimwe</a></sub>
 </div>
